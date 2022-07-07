@@ -7,7 +7,6 @@ import requests
 import pytz
 from timezonefinder import *
 from pathlib import Path
-from time import timezone
 from datetime import datetime
 from geopy.geocoders import Nominatim
 from tkinter import Label, Tk, Canvas, Entry, Text, Button, PhotoImage , messagebox
