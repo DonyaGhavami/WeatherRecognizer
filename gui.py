@@ -23,7 +23,7 @@ window = Tk()
 window.title("Weather App")
 window.geometry("404x496")
 window.configure(bg = "#FFFFFF")
-window.iconbitmap("weather_icon.ico")
+
 
 
 canvas = Canvas(
